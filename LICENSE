@@ -1,21 +1,31 @@
-MIT License
+# ⚖️ License Information (English)
 
-Copyright (c) 2026 alisizm
+**This software is NOT Open Source.** 
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+"Alisizm Fuel" is a commercial product and is exclusively licensed and distributed via the official Tebex store. The resource is protected by the FiveM Asset Escrow system.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+### Terms of Use:
+* **Usage & Transfer:** By purchasing this resource from the official Tebex store, you are granted a license to use it on your FiveM server. You may transfer the asset to another Keymaster account using the official transfer feature provided by the Cfx.re Keymaster system.
+* **Distribution:** You may **NOT** redistribute, resell outside of the official Keymaster transfer system, share, or leak any part of this software, including the unencrypted configuration and locale files.
+* **Modification:** You are free to edit the provided unencrypted files (`config.lua`, `locales/*.lua`) for your personal server use. However, bypassing or attempting to bypass the Escrow encryption is strictly prohibited.
+* **Tracking & Copyright Enforcement:** Hidden cryptographic markers and watermarks are securely embedded within the script codes and 3D objects to track unauthorized use. Attempting to alter or remove these hidden codes, distributing the product illegally, or claiming false ownership of the asset (plagiarism) is strictly forbidden. If such activities are detected, an official DMCA takedown notice will be submitted directly to **Cfx.re** and **Tebex**. This action will result in the permanent ban of your Keymaster account, the blacklisting of your FiveM server, and the termination of your Tebex store.
+* **Ownership:** All copyrights and intellectual property rights belong to **alisizm**.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+For legitimate purchases and support, visit: https://alisizm.tebex.io/
+
+---
+
+# ⚖️ Lisans Bilgilendirmesi (Türkçe)
+
+**Bu yazılım Açık Kaynak (Open Source) DEĞİLDİR.**
+
+"Alisizm Fuel" ticari bir üründür ve yalnızca resmi Tebex mağazası üzerinden lisanslanarak dağıtılmaktadır. Bu eklenti, FiveM Asset Escrow sistemi ile korunmaktadır.
+
+### Kullanım Koşulları:
+* **Kullanım ve Transfer:** Bu ürünü resmi Tebex mağazasından satın alarak kullanım hakkı elde edersiniz. İhtiyaç durumunda, lisansınızı resmi Cfx.re Keymaster sistemi üzerinden başka bir Keymaster hesabına transfer edebilirsiniz.
+* **Dağıtım:** Resmi Keymaster transfer sistemi haricinde bu yazılımın herhangi bir parçasını (şifrelenmemiş yapılandırma ve dil dosyaları dahil) dağıtmak, el altından satmak, paylaşmak veya sızdırmak **YASAKTIR**.
+* **Düzenleme:** Kendi sunucunuzda kullanmak amacıyla şifrelenmemiş dosyaları (`config.lua`, `locales/*.lua`) dilediğiniz gibi düzenleyebilirsiniz. Ancak Escrow şifrelemesini atlamak veya kırmaya çalışmak kesinlikle yasaktır.
+* **Takip ve Telif Yaptırımları:** İzinsiz kullanımı ve sızıntıları tespit edebilmek amacıyla kodların ve 3D objelerin (modellerin) içerisine gizlenmiş şifreler ve filigranlar (watermark) yerleştirilmiştir. Bu gizli kodları değiştirmeye veya silmeye çalışmak, ürünü izinsiz dağıtmak veya ürünü kendinizinmiş gibi göstermek (intihal/telif hakkı ihlali) kesinlikle yasaktır. Bu tür eylemlerin tespiti halinde, doğrudan **Cfx.re** ve **Tebex** platformlarına resmi telif ihtarı (DMCA) gönderilecektir. Bu işlem; Keymaster hesabınızın kalıcı olarak yasaklanması, FiveM sunucunuzun kara listeye (blacklist) alınması ve varsa Tebex mağazanızın kapatılması ile sonuçlanacaktır.
+* **Mülkiyet:** Tüm telif hakları ve fikri mülkiyet hakları **alisizm**'e aittir.
+
+Yasal satın alım ve destek için adres: https://alisizm.tebex.io/
